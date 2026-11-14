@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\11a programirane\Prevozi\Prevozi\bin\Debug\Prevozi.exe.config
+C:\Users\Admin\Desktop\11a programirane\Prevozi\Prevozi\bin\Debug\Prevozi.exe
+C:\Users\Admin\Desktop\11a programirane\Prevozi\Prevozi\bin\Debug\Prevozi.pdb
+C:\Users\Admin\Desktop\11a programirane\Prevozi\Prevozi\obj\Debug\Prevozi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\11a programirane\Prevozi\Prevozi\obj\Debug\Prevozi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\11a programirane\Prevozi\Prevozi\obj\Debug\Prevozi.exe
+C:\Users\Admin\Desktop\11a programirane\Prevozi\Prevozi\obj\Debug\Prevozi.pdb
